@@ -29,6 +29,17 @@ This project uses Python 3.7.0 and the following python libraries:
 * pandas==0.24.2
 
 All libraries and versions can be found in either *requirements.txt* or *environment.yaml*. 
+
+To install the packages:
+`pip install -r /path/to/requirements.txt`
+
+or
+
+`conda env create --name deep-learning --file environment.yaml`
+
+Enter your new environment:
+* Mac/Linux: >> `source activate deep-learning`
+* Windows: >> `activate deep-learning`
 - - - -
 ### Analysis
 
@@ -39,4 +50,7 @@ To view *Predicting_bike_sharing_data.html*, use the following link:
 http://htmlpreview.github.io/?https://github.com/jonessarae/deep_learning_projects/blob/master/bike_sharing/Predicting_bike_sharing_data.html
 
 To run the jupyter notebook:
-
+`git clone https://github.com/jonessarae/deep_learning_projects.git`
+cd into `bike_sharing` directory
+`jupyter notebook`
+In your browser, open *Predicting_bike_sharing_data.ipynb*
