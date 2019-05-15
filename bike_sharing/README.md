@@ -50,6 +50,7 @@ To view *Predicting_bike_sharing_data.html*, use the following link:
 http://htmlpreview.github.io/?https://github.com/jonessarae/deep_learning_projects/blob/master/bike_sharing/Predicting_bike_sharing_data.html
 
 To run the jupyter notebook:
+
 `git clone https://github.com/jonessarae/deep_learning_projects.git`  
 cd into `bike_sharing` directory  
 `jupyter notebook`  
