@@ -1,29 +1,39 @@
-## Project: Identify Customer Segments
+## Project: Predicting Bike-Sharing Patterns
 
 ### Goal 
 
-The goal of this project is to work with real-life data provided by AZ Direct and Arvato Finance Solution. 
-The data concerns a company that performs mail-order sales in Germany. 
-Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products 
-for a mailout campaign. Using unsupervised learning techniques, organize the general population into clusters, then use 
-those clusters to see which of them comprise the main user base for the company. 
-
+Build a neural network from scratch and use it to predict daily bike rental ridership.
 - - - -
+### Data
 
-### Software
+Data comes from the UCI Machine Learning Database. 
 
-This project uses Python 3.6.3.
-
-All libraries and versions can be found in Identify_Customer_Segments.html. 
+The dataset can also be found on Udacity's deep-learning-v2-pytorch github:
+https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing/Bike-Sharing-Dataset
 - - - -
 ### Files
 
-* Identify_Customer_Segments.ipynb - jupyter notebook 
-* Identify_Customer_Segments.html -  html version of jupyter notebook
+* *Predicting_bike_sharing_data.ipynb* - jupyter notebook 
+* *Predicting_bike_sharing_data.html* -  html version of jupyter notebook
+* *my_answers.py* - python file that defines the neural network
+* *requirements.txt* - text file of packages and their versions if using the *pip* command
+* *environment.yaml* - yaml file for the conda environment if using Anaconda or Miniconda
+- - - -
+### Software
+
+This project uses Python 3.7.0 and the following python libraries:
+
+* numpy==1.16.3
+* matplotlib==3.0.3
+* jupyter notebook==5.7.8
+* pandas==0.24.2
+
+All libraries and versions can be found in either *requirements.txt* or *environment.yaml*. 
 - - - -
 ### Analysis
 
-Analysis for this project is provided in Identify_Customer_Segments.ipynb and Identify_Customer_Segments.html.
-To view Identify_Customer_Segments.html use the following link:
+Analysis for this project is provided in both Predicting_bike_sharing_data.ipynb and Predicting_bike_sharing_data.html.
 
-http://htmlpreview.github.io/?https://github.com/jonessarae/data_science_projects/blob/master/identify_customer_segments/Identify_Customer_Segments.html
+To view Predicting_bike_sharing_data.html, use the following link:
+
+http://htmlpreview.github.io/?https://github.com/jonessarae/deep_learning_projects/blob/master/bike_sharing/Predicting_bike_sharing_data.html
