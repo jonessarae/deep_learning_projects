@@ -54,4 +54,4 @@ To run the jupyter notebook:
 `git clone https://github.com/jonessarae/deep_learning_projects.git`  
 cd into `bike_sharing` directory  
 `jupyter notebook`  
-In your browser, open *Predicting_bike_sharing_data.ipynb*
+In your browser, open *Predicting_bike_sharing_data.ipynb*.
