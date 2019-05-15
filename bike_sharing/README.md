@@ -32,8 +32,11 @@ All libraries and versions can be found in either *requirements.txt* or *environ
 - - - -
 ### Analysis
 
-Analysis for this project is provided in both Predicting_bike_sharing_data.ipynb and Predicting_bike_sharing_data.html.
+Analysis for this project is provided in both *Predicting_bike_sharing_data.ipynb* and *Predicting_bike_sharing_data.html*.
 
-To view Predicting_bike_sharing_data.html, use the following link:
+To view *Predicting_bike_sharing_data.html*, use the following link:
 
 http://htmlpreview.github.io/?https://github.com/jonessarae/deep_learning_projects/blob/master/bike_sharing/Predicting_bike_sharing_data.html
+
+To run the jupyter notebook:
+
