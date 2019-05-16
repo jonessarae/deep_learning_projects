@@ -55,3 +55,25 @@ To run the jupyter notebook:
 cd into `bike_sharing` directory  
 `jupyter notebook`  
 In your browser, open *Predicting_bike_sharing_data.ipynb*.
+- - - -
+### Considerations for future projects
+
+* Use unit tests to ensure code is free from bugs.
+* Include a bias term.
+* Apply early stopping to prevent overfitting.
+* Incorporate hyperparameter optimization methods.
+* Utilize gradual decay of learning rate.
+
+- - - -
+### Useful articles
+
+Early stopping:  
+https://stats.stackexchange.com/questions/231061/how-to-use-early-stopping-properly-for-training-deep-neural-network
+
+Unit tests:  
+https://docs.python-guide.org/writing/tests/
+
+Hyperparameter optimization:
+http://cs231n.github.io/neural-networks-3/#baby
+
+
