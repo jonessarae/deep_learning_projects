@@ -73,7 +73,7 @@ https://stats.stackexchange.com/questions/231061/how-to-use-early-stopping-prope
 Unit tests:  
 https://docs.python-guide.org/writing/tests/
 
-Hyperparameter optimization:
+Hyperparameter optimization:  
 http://cs231n.github.io/neural-networks-3/#baby
 
 
