@@ -1,5 +1,5 @@
 # Projects from Udacity Deep Learning Nanodegree
-<img src="https://github.com/jonessarae/deep_learning_projects/blob/master/machu_picchu_van_gogh_style.png" width="100" height="100">
+<img src="https://github.com/jonessarae/deep_learning_projects/blob/master/machu_picchu_van_gogh_style.png"#center width="500" height="500">
 img[src*='#center'] {
     display: block;
     margin: auto;
