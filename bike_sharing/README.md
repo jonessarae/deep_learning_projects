@@ -16,8 +16,7 @@ https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikeshar
 * *Predicting_bike_sharing_data.ipynb* - jupyter notebook 
 * *Predicting_bike_sharing_data.html* -  html version of jupyter notebook
 * *my_answers.py* - python file that defines the neural network
-* *requirements.txt* - text file of packages and their versions if using the *pip* command
-* *environment.yaml* - yaml file for the conda environment if using Anaconda or Miniconda
+
 - - - -
 ### Software
 
@@ -28,18 +27,7 @@ This project uses Python 3.7.0 and the following python libraries:
 * jupyter notebook==5.7.8
 * pandas==0.24.2
 
-All libraries and versions can be found in either *requirements.txt* or *environment.yaml*. 
 
-To install the packages:
-`pip install -r /path/to/requirements.txt`
-
-or
-
-`conda env create --name deep-learning --file environment.yaml`
-
-Enter your new environment:
-* Mac/Linux: >> `source activate deep-learning`
-* Windows: >> `activate deep-learning`
 - - - -
 ### Analysis
 
