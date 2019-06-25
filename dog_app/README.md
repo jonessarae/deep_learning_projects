@@ -1,8 +1,8 @@
 
 ## Data
 
-Downloaded the dog dataset and placed in my project's home directory at the location /dog_images. 
-Downloaded the human dataset and placed it in the home directory at location /lfw. 
+I downloaded and unzipped the dog and human datasets provided by Udacity. 
 
-There are 8351 total dog images.
-There are 13233 total human images.
+The dog dataset was placed in my project's home directory at the location /dog_images, and the human dataset was placed at location /lwf.
+
+There were 8351 dog images and 13233 human images.
