@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Dog Breed Classifier</title>
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+    <link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+    <link rel="icon" type="image/png" sizes="64x64" href="https://dog.international/wp-content/uploads/2016/05/FAVICON-big-2.png">
+  </head>
+
+ <body>
+  <header>
+   <h1>Dog Breed Classifier </h1>
+  </header>
+
+  <div class="content-container">
+
+    <p class=flashes>
+      {% with messages = get_flashed_messages() %}
+        {% if messages %}
+           {% for message in messages %}
+             {{ message }}
+           {% endfor %}
+        {% endif %}
+       {% endwith %}
+    </p>
+
+  <div class="content-container">
+    <img src="{{url_for('send_image', filename=image_name)}}">
+  </div>
+
+  <footer>
+    <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by isidoro151 - www.freepik.com</a>
+  </footer>
+
+ </body>
+</html>
