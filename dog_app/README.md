@@ -1,10 +1,14 @@
 # Dog-Breed Classifier
 
+## Demonstration of Flask app
+
 ![](https://media.giphy.com/media/iH8C4Jou3rbS5TY4Xl/giphy.gif)
 
 ## Goal
 
 Build a pipeline to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed using a convolutional neural network. If supplied an image of a human, the code will identify the resembling dog breed.
+
+Extra: Create a Dog Classifier Flask app.
 
 ## Data
 
@@ -29,4 +33,4 @@ There were a total of 8351 dog images and 13233 human images.
 
 ## Analysis ~ Jupyter notebooks
 
-## 
+
