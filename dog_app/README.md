@@ -1,5 +1,7 @@
 # Dog-Breed Classifier
 
+<iframe src="https://giphy.com/embed/hSRCY6zs8XlmX2Ku3D" width="480" height="418" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hSRCY6zs8XlmX2Ku3D">via GIPHY</a></p>
+
 ## Goal
 
 Build a pipeline to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed using a convolutional neural network. If supplied an image of a human, the code will identify the resembling dog breed.
