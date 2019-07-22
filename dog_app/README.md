@@ -8,8 +8,23 @@ Build a pipeline to process real-world, user-supplied images. Given an image of 
 
 ## Data
 
-I downloaded and unzipped the dog and human datasets provided by Udacity. 
+Dog and human datasets were provided by Udacity. 
 
-The dog dataset was placed in my project's home directory at the location /dog_images, and the human dataset was placed at location /lfw.
+There were a total of 8351 dog images and 13233 human images.
 
-There were 8351 dog images and 13233 human images.
+## Software 
+
+Flask==1.0.3
+matplotlib==3.1.1
+numpy==1.16.4
+opencv-python==4.1.0.25
+pandas==0.24.2
+Pillow==6.1.0
+python==3.7.4
+requests==2.22.0
+torch==1.1.0.post2
+torchvision==0.3.0
+urllib3==1.25.3
+Werkzeug==0.15.4
+
+## Analysis ~ Jupyter notebooks
