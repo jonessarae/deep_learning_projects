@@ -37,7 +37,7 @@ Analysis for this project is provided in dog_app.ipynb and dog_app.html. To view
 
 http://htmlpreview.github.io/?https://github.com/jonessarae/deep_learning_projects/blob/master/dog_app/dog_app.html
 
-## To Run Flask App
+## How To Run Flask App
 
 Download the flask_app folder and ensure you have the above software installed.
 
