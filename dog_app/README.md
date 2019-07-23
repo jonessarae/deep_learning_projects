@@ -39,8 +39,8 @@ http://htmlpreview.github.io/?https://github.com/jonessarae/deep_learning_projec
 
 ## To Run Flask App
 
-git clone
+Download the flask_app folder and ensure you have the above software installed.
 
-python main.py
+`python main.py`
 
 
