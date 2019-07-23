@@ -31,6 +31,16 @@ There were a total of 8351 dog images and 13233 human images.
 * urllib3==1.25.3
 * Werkzeug==0.15.4
 
-## Analysis ~ Jupyter notebooks
+## Analysis 
+
+Analysis for this project is provided in dog_app.ipynb and dog_app.html. To view dog_app.html use the following link:
+
+http://htmlpreview.github.io/?https://github.com/jonessarae/deep_learning_projects/blob/master/dog_app/dog_app.html
+
+## To Run Flask App
+
+git clone
+
+python main.py
 
 
