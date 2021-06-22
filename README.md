@@ -13,3 +13,7 @@ Completed: May 21, 2019
 ## Project 2: Dog-Breed Classifier
 Details of the project can be found in the *dog_app* folder.  
 Completed: July 23, 2019
+
+hi
+hi
+hi
